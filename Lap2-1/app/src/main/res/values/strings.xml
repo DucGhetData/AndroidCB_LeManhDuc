@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animal Sound</string>
+    <string name="txt_loading">Loading</string>
+    <string name="txt_name">Gi Lợn</string>
+    <string name="txt_phone1">(650) 555-1234</string>
+    <string name="txt_title_mobile">Mobile</string>
+    <string name="txt_phone2">(323) 555-6789</string>
+    <string name="txt_email">gilon@example.com</string>
+</resources>

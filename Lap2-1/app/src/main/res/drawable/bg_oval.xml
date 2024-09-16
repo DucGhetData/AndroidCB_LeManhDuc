@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Hình tròn -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#FF4181" />  <!-- Màu nền của hình tròn -->
+        </shape>
+    </item>
+
+    <!-- Ngôi sao -->
+    <item
+        android:drawable="@drawable/ic_star"
+        android:gravity="center" />  <!-- Đặt ngôi sao ở giữa hình tròn -->
+</layer-list>
+
